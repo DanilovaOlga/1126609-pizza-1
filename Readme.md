@@ -1,6 +1,6 @@
-# Личный проект «VuePizza»
+# Личный проект «{{projectTitle}}»
 
-* Студент: [Olga Danilova](https://up.htmlacademy.ru/vue/1/user/1126609).
+* Студент: [{{userName}}]({{userProfile}}).
 
 ---
 
@@ -51,7 +51,7 @@ git clone SSH-адрес_вашего_форка
 
 * Docker
 * Docker-compose
-* NodeJS 10+
+* NodeJS 16+
 * Pre commit (optional)
 
 ## Docker документация и установка
